@@ -1,2 +1,1 @@
-# alembic/README
-This directory contains Alembic migration scripts for the database.
+Generic single-database configuration.

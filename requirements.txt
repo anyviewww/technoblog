@@ -1,4 +1,3 @@
-# requirements.txt
 fastapi
 uvicorn
 sqlalchemy
@@ -9,4 +8,5 @@ pydantic
 passlib
 bcrypt
 requests
-alembic init alembic
+#alembic1 init migration
+
